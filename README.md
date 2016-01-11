@@ -4,6 +4,17 @@ This document is intended to help you on your way to be the so called Full Stack
 
 ![Pymap](../master/assets/pymap.png?raw=true)
 
+# Table of Contents
+
+- [Beginning](#beginning)
+  - [Command Line](#command-line)
+  - [Variables](#variables)
+  - [Functions](#functions)
+  - [Classes](#classes)
+  - [Exceptions](#exceptions)
+  - [Packages/Modules](#modules)
+- [Advanced](#advanced)
+  
 ## Beginning
 
 #### Command Line
@@ -16,7 +27,7 @@ This document is intended to help you on your way to be the so called Full Stack
 
 #### Exceptions
 
-#### Packages/Modules
+#### Modules
 
 ## Advanced
 
