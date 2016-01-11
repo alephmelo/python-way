@@ -14,6 +14,15 @@ This document is intended to help you on your way to be the so called Full Stack
   - [Exceptions](#exceptions)
   - [Packages/Modules](#modules)
 - [Advanced](#advanced)
+	- [List Comprehensions](#list Comprehensions)
+	- [Decorators](#decorators)
+	- [Context Managers](#context-managers)
+	- [Class Decorators](#class-decorators)
+	- [Meta Classes](#meta-classes)
+- [Optimization](#optimization)
+	- [Cython](#cython)
+	- [PyPy](#pypy)
+	- [Numba](#numba)
   
 ## Beginning
 
