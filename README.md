@@ -140,6 +140,7 @@ This document is intended to help you on your way to be the so called Full Stack
 #### CoveragePy
 
 ## Data Science
+- [5 important Python Data Science advancements of 2015](https://medium.com/@elgehelge/the-5-most-important-python-data-science-advancements-of-2015-a136482da89b#.tpxagwdl4)
 
 #### Natural Language Toolkit
 
@@ -228,3 +229,4 @@ This document is intended to help you on your way to be the so called Full Stack
 #### PyQT
 
 ## Community
+- [Beginner-friendly Python Open Source Projects](https://gist.github.com/ossanna16/330f45fe37d6150138bd)
