@@ -87,6 +87,7 @@ This document is intended to help you on your way to be the so called Full Stack
 - [Command Line Arguments](http://www.tutorialspoint.com/python/python_command_line_arguments.htm)
 
 #### Variables
+-[Variables and Types](http://www.learnpython.org/en/Variables_and_Types)
 
 #### Functions
 
