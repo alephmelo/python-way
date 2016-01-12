@@ -14,7 +14,7 @@ This document is intended to help you on your way to be the so called Full Stack
   - [Exceptions](#exceptions)
   - [Packages/Modules](#modules)
 - [Advanced](#advanced)
-	- [List Comprehensions](#list Comprehensions)
+	- [List Comprehensions](#list-comprehensions)
 	- [Decorators](#decorators)
 	- [Context Managers](#context-managers)
 	- [Class Decorators](#class-decorators)
@@ -83,6 +83,8 @@ This document is intended to help you on your way to be the so called Full Stack
 ## Beginning
 
 #### Command Line
+- [Documentation](https://docs.python.org/3.5/using/cmdline.html)
+- [Command Line Arguments](http://www.tutorialspoint.com/python/python_command_line_arguments.htm)
 
 #### Variables
 
