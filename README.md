@@ -100,8 +100,11 @@ This document is intended to help you on your way to be the so called Full Stack
 ## Advanced
 
 #### List Comprehensions
+- [List Comprehensions Basics](http://community.pythonhackers.com/t/list-comprehensions/579)
 
 #### Decorators
+- [Decorators Part I](http://community.pythonhackers.com/t/decorators-part-1/582)
+- [Decorators Part II](http://community.pythonhackers.com/t/decorators-part-ii/583)
 
 #### Context Managers
 
@@ -141,6 +144,7 @@ This document is intended to help you on your way to be the so called Full Stack
 
 ## Data Science
 - [5 important Python Data Science advancements of 2015](https://medium.com/@elgehelge/the-5-most-important-python-data-science-advancements-of-2015-a136482da89b#.tpxagwdl4)
+- [100 Data Science in Python Interview Questions and Answers](https://www.dezyre.com/article/100-data-science-in-python-interview-questions-and-answers/188)
 
 #### Natural Language Toolkit
 
@@ -161,6 +165,7 @@ This document is intended to help you on your way to be the so called Full Stack
 #### Statsmodels
 
 ## Web
+- [Django vs Flask vs Pyramid: Choosing a Python Web Framework](https://www.airpair.com/python/posts/django-flask-pyramid)
 
 #### HTTP
 
@@ -169,6 +174,7 @@ This document is intended to help you on your way to be the so called Full Stack
 #### Pyramid
 
 #### Flask
+- [Flask by Example - Project](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/)
 
 #### Bottle
 
