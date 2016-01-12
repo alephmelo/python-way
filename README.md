@@ -96,6 +96,7 @@ This document is intended to help you on your way to be the so called Full Stack
 #### Exceptions
 
 #### Modules
+- [Modules Every Python Developer Should Know](https://www.reddit.com/r/Python/comments/3yg2u4/modules_every_python_developer_should_know/)
 
 ## Advanced
 
@@ -145,6 +146,7 @@ This document is intended to help you on your way to be the so called Full Stack
 ## Data Science
 - [5 important Python Data Science advancements of 2015](https://medium.com/@elgehelge/the-5-most-important-python-data-science-advancements-of-2015-a136482da89b#.tpxagwdl4)
 - [100 Data Science in Python Interview Questions and Answers](https://www.dezyre.com/article/100-data-science-in-python-interview-questions-and-answers/188)
+- [Time Series Analysis using iPython](http://bicorner.com/2015/11/16/time-series-analysis-using-ipython/)
 
 #### Natural Language Toolkit
 
@@ -157,6 +159,7 @@ This document is intended to help you on your way to be the so called Full Stack
 #### PyLearn2
 
 #### Sckit-Learn
+- [Machine Learning in Python](http://www.scipy-lectures.org/advanced/scikit-learn/index.html)
 
 #### PyMC
 
@@ -170,11 +173,13 @@ This document is intended to help you on your way to be the so called Full Stack
 #### HTTP
 
 #### Django
+- [Web Development with Python and Django (2015)](https://speakerdeck.com/mpirnat/web-development-with-python-and-django-2015)
 
 #### Pyramid
 
 #### Flask
 - [Flask by Example - Project](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/)
+- [Build an API under 30 lines of code with Python and Flask](https://impythonist.wordpress.com/2015/07/12/build-an-api-under-30-lines-of-code-with-python-and-flask/)
 
 #### Bottle
 
