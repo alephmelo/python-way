@@ -196,6 +196,7 @@ This document is intended to help you on your way to be the so called Full Stack
 #### Alembic
 
 ## Data Visualization
+- [Cheat sheet: Data Visualisation in Python](http://www.analyticsvidhya.com/blog/2015/06/data-visualization-in-python-cheat-sheet/)
 
 #### Bokeh
 
