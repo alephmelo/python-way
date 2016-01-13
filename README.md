@@ -241,3 +241,4 @@ This document is intended to help you on your way to be the so called Full Stack
 
 ## Community
 - [Beginner-friendly Python Open Source Projects](https://gist.github.com/ossanna16/330f45fe37d6150138bd)
+- [Best Python Resources](http://www.fullstackpython.com/best-python-resources.html?utm_content=bufferc1b6f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
