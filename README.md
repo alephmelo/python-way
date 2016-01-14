@@ -90,6 +90,10 @@ This document is intended to help you on your way to be the so called Full Stack
 - [Variables and Types](http://www.learnpython.org/en/Variables_and_Types)
 
 #### Functions
+- [Learn Python The Hard Way](http://learnpythonthehardway.org/book/ex21.html)
+- [Functions in Python](http://zetcode.com/lang/python/functions/)
+- [Functions Codecademy](https://www.codecademy.com/courses/python-beginner-c7VZg/0/1?curriculum_id=4f89dab3d788890003000096)
+- [Automate Boring Stuff with Python](https://automatetheboringstuff.com/chapter3/)
 
 #### Classes
 
