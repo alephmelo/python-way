@@ -110,6 +110,7 @@ This document is intended to help you on your way to be the so called Full Stack
 #### Decorators
 - [Decorators Part I](http://community.pythonhackers.com/t/decorators-part-1/582)
 - [Decorators Part II](http://community.pythonhackers.com/t/decorators-part-ii/583)
+- [A Primer on Python Decorators](https://realpython.com/blog/python/primer-on-python-decorators/)
 
 #### Context Managers
 
