@@ -115,17 +115,28 @@ This document is intended to help you on your way to be the so called Full Stack
 
 #### List Comprehensions
 - [List Comprehensions Basics](http://community.pythonhackers.com/t/list-comprehensions/579)
+- [List Comprehensions Explained](http://python-3-patterns-idioms-test.readthedocs.org/en/latest/Comprehensions.html)
+- [List Comprehension](http://www.python-course.eu/list_comprehension.php)
+- [Yet Another List Comprehension Article](http://www.bogotobogo.com/python/python_list_comprehension.php)
 
 #### Decorators
 - [Decorators Part I](http://community.pythonhackers.com/t/decorators-part-1/582)
 - [Decorators Part II](http://community.pythonhackers.com/t/decorators-part-ii/583)
 - [A Primer on Python Decorators](https://realpython.com/blog/python/primer-on-python-decorators/)
+- [Improve Your Python: Decorators Explained](http://www.jeffknupp.com/blog/2013/11/29/improve-your-python-decorators-explained/)
 
 #### Context Managers
+- [Introduction to Context Managers in Python](http://eigenhombre.com/2013/04/20/introduction-to-context-managers/)
+- [Context Managers 101](http://book.pythontips.com/en/latest/context_managers.html)
+- [Context Lib](https://pymotw.com/2/contextlib/)
 
 #### Class Decorators
+- [Decorator Classes](http://book.pythontips.com/en/latest/decorators.html#decorator-classes)
+- [Writing a Class Decorator in Python](https://andrefsp.wordpress.com/2012/08/23/writing-a-class-decorator-in-python/)
 
 #### Meta Classes
+- [Python 3 OOP - Metaclasses](http://lgiordani.com/blog/2014/09/01/python-3-oop-part-5-metaclasses/#.Vpqwj1MrKcw)
+- [Decorators and Metaclasses](http://lgiordani.com/blog/2014/10/14/decorators-and-metaclasses/#.Vpqwc1MrKcw)
 
 ## Optimization
 
