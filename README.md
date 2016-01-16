@@ -88,6 +88,7 @@ This document is intended to help you on your way to be the so called Full Stack
 
 #### Variables
 - [Variables and Types](http://www.learnpython.org/en/Variables_and_Types)
+- [Python Variable Types](http://www.tutorialspoint.com/python/python_variable_types.htm)
 
 #### Functions
 - [Learn Python The Hard Way](http://learnpythonthehardway.org/book/ex21.html)
@@ -96,8 +97,16 @@ This document is intended to help you on your way to be the so called Full Stack
 - [Automate Boring Stuff with Python](https://automatetheboringstuff.com/chapter3/)
 
 #### Classes
+- [Learning To Speak Object Oriented](http://learnpythonthehardway.org/book/ex41.html)
+- [Classes and Objects](http://www.learnpython.org/en/Classes_and_Objects)
+- [Python Object Oriented](http://www.tutorialspoint.com/python/python_classes_objects.htm)
+- [Improve Your Python: Python Classes and Object Oriented Programming](https://www.jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/)
 
 #### Exceptions
+- [Python Exceptions Handling](http://www.tutorialspoint.com/python/python_exceptions.htm)
+- [Errors and Exceptions](https://docs.python.org/3.5/tutorial/errors.html)
+- [Handling Exceptions](https://wiki.python.org/moin/HandlingExceptions)
+- [Python Error: Trey, Except and Exception Handling](http://www.dotnetperls.com/error-python)
 
 #### Modules
 - [Modules Every Python Developer Should Know](https://www.reddit.com/r/Python/comments/3yg2u4/modules_every_python_developer_should_know/)
