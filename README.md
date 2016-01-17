@@ -141,6 +141,7 @@ This document is intended to help you on your way to be the so called Full Stack
 ## Optimization
 
 #### Cython
+- [Basic Tutorial](http://docs.cython.org/src/tutorial/cython_tutorial.html)
 
 #### PyPy
 
