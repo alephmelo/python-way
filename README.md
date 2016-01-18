@@ -173,6 +173,7 @@ This document is intended to help you on your way to be the so called Full Stack
 - [5 important Python Data Science advancements of 2015](https://medium.com/@elgehelge/the-5-most-important-python-data-science-advancements-of-2015-a136482da89b#.tpxagwdl4)
 - [100 Data Science in Python Interview Questions and Answers](https://www.dezyre.com/article/100-data-science-in-python-interview-questions-and-answers/188)
 - [Time Series Analysis using iPython](http://bicorner.com/2015/11/16/time-series-analysis-using-ipython/)
+- [A Complete Tutorial to Learn Data Science with Python from Scratch](http://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
 
 #### Natural Language Toolkit
 
@@ -259,6 +260,7 @@ This document is intended to help you on your way to be the so called Full Stack
 ## GUI
 
 #### Pygame
+- [PyGame - a Primer](https://realpython.com/blog/python/pygame-a-primer/)
 
 #### Kivy
 
