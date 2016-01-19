@@ -262,6 +262,7 @@ This document is intended to help you on your way to be the so called Full Stack
 
 #### Pygame
 - [PyGame - a Primer](https://realpython.com/blog/python/pygame-a-primer/)
+- [Space Shooter Project](https://github.com/prodicus/spaceShooter)
 
 #### Kivy
 
