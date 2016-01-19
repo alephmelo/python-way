@@ -145,8 +145,11 @@ This document is intended to help you on your way to be the so called Full Stack
 - [Basic Tutorial](http://docs.cython.org/src/tutorial/cython_tutorial.html)
 
 #### PyPy
+- [What is PyPy?](http://doc.pypy.org/en/latest/introduction.html)
 
 #### Numba
+- [First Steps with Numba](http://numba.pydata.org/numba-doc/0.12.2/tutorial_firststeps.html)
+- [Python Performance and Introduction to Numba - PyData Conf 2015](https://speakerdeck.com/teoliphant/performance-python-and-introduction-to-numba)
 
 ## Concurrency
 
