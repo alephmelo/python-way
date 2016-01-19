@@ -89,6 +89,7 @@ This document is intended to help you on your way to be the so called Full Stack
 #### Variables
 - [Variables and Types](http://www.learnpython.org/en/Variables_and_Types)
 - [Python Variable Types](http://www.tutorialspoint.com/python/python_variable_types.htm)
+- [Python Basics: Dictionaries](https://www.youtube.com/watch?v=ZX1CVvZLE6c)
 
 #### Functions
 - [Learn Python The Hard Way](http://learnpythonthehardway.org/book/ex21.html)
