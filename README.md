@@ -180,6 +180,9 @@ This document is intended to help you on your way to be the so called Full Stack
 - [A Complete Tutorial to Learn Data Science with Python from Scratch](http://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
 
 #### Natural Language Toolkit
+- [Analyzing Text with the Natural Language Toolkit](http://www.nltk.org/book/)
+- [Dive Into NLTK, Part I: Getting Started with NLTK](http://textminingonline.com/dive-into-nltk-part-i-getting-started-with-nltk)
+- [NLTK in 20 Minutes](http://www.slideshare.net/japerk/nltk-in-20-minutes)
 
 #### Redshift
 
