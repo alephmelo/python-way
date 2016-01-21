@@ -185,6 +185,9 @@ This document is intended to help you on your way to be the so called Full Stack
 - [NLTK in 20 Minutes](http://www.slideshare.net/japerk/nltk-in-20-minutes)
 
 #### Redshift
+- [Introduction to Python UDFs in Amazon Redshift](https://blogs.aws.amazon.com/bigdata/post/Tx1IHV1G67CY53T/Introduction-to-Python-UDFs-in-Amazon-Redshift)
+- [Python Language Support for UDFs](http://docs.aws.amazon.com/redshift/latest/dg/udf-python-language-support.html)
+- [Redshift User Defined Functions in Python](https://www.periscopedata.com/blog/redshift-user-defined-functions-python.html)
 
 #### CSV
 
