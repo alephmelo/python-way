@@ -1,4 +1,4 @@
-# The Python Way
+# The Python Way [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/alephmelo/python-way#fork-destination-box)
 
 This document is intended to help you on your way to be the so called Full Stack Python Developer. It will include a curated list of articles, talks, tutorials and others great materials out there.
 
