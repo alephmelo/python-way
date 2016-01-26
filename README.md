@@ -182,6 +182,7 @@ This document is intended to help you on your way to be the so called Full Stack
 - [100 Data Science in Python Interview Questions and Answers](https://www.dezyre.com/article/100-data-science-in-python-interview-questions-and-answers/188)
 - [Time Series Analysis using iPython](http://bicorner.com/2015/11/16/time-series-analysis-using-ipython/)
 - [A Complete Tutorial to Learn Data Science with Python from Scratch](http://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
+- [Python NLTK Tools List for Natural Language Processing (NLP)](http://www.datasciencecentral.com/profiles/blogs/python-nlp-tools)
 
 #### Natural Language Toolkit
 - [Analyzing Text with the Natural Language Toolkit](http://www.nltk.org/book/)
