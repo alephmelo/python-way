@@ -284,6 +284,7 @@ This document is intended to help you on your way to be the so called Full Stack
 #### PySide
 
 #### PyQT
+-  [Create a GUI Application Using Qt and Python in Minutes: Example Web Browser](http://www.digitalpeer.com/blog/create-a-gui-application-using-qt-and-python-in-minutes-example-web-browser)
 
 ## Community
 - [Beginner-friendly Python Open Source Projects](https://gist.github.com/ossanna16/330f45fe37d6150138bd)
