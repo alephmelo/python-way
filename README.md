@@ -211,6 +211,7 @@ This document is intended to help you on your way to be the so called Full Stack
 
 ## Web
 - [Django vs Flask vs Pyramid: Choosing a Python Web Framework](https://www.airpair.com/python/posts/django-flask-pyramid)
+- [Python, Ruby, and Golang: A Web Service Application Comparison](https://realpython.com/blog/python/python-ruby-and-golang-a-web-Service-application-comparison/)
 
 #### HTTP
 
