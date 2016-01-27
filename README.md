@@ -214,6 +214,7 @@ This document is intended to help you on your way to be the so called Full Stack
 - [Python, Ruby, and Golang: A Web Service Application Comparison](https://realpython.com/blog/python/python-ruby-and-golang-a-web-Service-application-comparison/)
 
 #### HTTP
+- [Create a Simple Python Web Scraper to Get Pricing Data](http://robertwdempsey.com/simple-python-web-scraper-get-pricing-data/)
 
 #### Django
 - [Web Development with Python and Django (2015)](https://speakerdeck.com/mpirnat/web-development-with-python-and-django-2015)
