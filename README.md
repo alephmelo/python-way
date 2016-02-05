@@ -168,6 +168,7 @@ This document is intended to help you on your way to be the so called Full Stack
 ##### Twisted
 
 ## Testing
+- [Testing Your Code](http://docs.python-guide.org/en/latest/writing/tests/)
 
 #### Unittest
 - [An Introduction to Mocking in Python](http://www.toptal.com/python/an-introduction-to-mocking-in-python)
