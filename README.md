@@ -209,6 +209,7 @@ This document is intended to help you on your way to be the so called Full Stack
 #### PyMC
 
 #### Theano
+- [Tutorial](http://deeplearning.net/software/theano/tutorial/)
 
 #### Statsmodels
 
