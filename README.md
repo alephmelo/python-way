@@ -300,3 +300,4 @@ This document is intended to help you on your way to be the so called Full Stack
 - [Best Python Resources](http://www.fullstackpython.com/best-python-resources.html?utm_content=bufferc1b6f&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [PEP about diversity in pythonist communities](https://github.com/yamila-moreno/pepa)
 - [Do Your Slides At The Last Minute: 8 Steps To Writing Your Con Talk](https://emptysqua.re/blog/how-i-write-a-conference-talk/)
+- [The Remote Manifesto](https://about.gitlab.com/2015/04/08/the-remote-manifesto/)
