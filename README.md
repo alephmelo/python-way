@@ -301,3 +301,4 @@ This document is intended to help you on your way to be the so called Full Stack
 - [PEP about diversity in pythonist communities](https://github.com/yamila-moreno/pepa)
 - [Do Your Slides At The Last Minute: 8 Steps To Writing Your Con Talk](https://emptysqua.re/blog/how-i-write-a-conference-talk/)
 - [The Remote Manifesto](https://about.gitlab.com/2015/04/08/the-remote-manifesto/)
+- [Entry Level Quiz for Python Developers](http://www.techbeamers.com/entry-level-quiz-for-python-developers/)
