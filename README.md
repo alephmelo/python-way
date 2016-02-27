@@ -232,6 +232,7 @@ This document is intended to help you on your way to be the so called Full Stack
 - [Build an API under 30 lines of code with Python and Flask](https://impythonist.wordpress.com/2015/07/12/build-an-api-under-30-lines-of-code-with-python-and-flask/)
 - [Building a Database driven RESTFUL API in Python 3 with Flask](http://techarena51.com/index.php/buidling-a-database-driven-restful-json-api-in-python-3-with-flask-flask-restful-and-sqlalchemy/)
 - [The Ultimate Flask Front-End](https://realpython.com/blog/python/the-ultimate-flask-front-end/)
+- [A beginner's guide to building a simple database-backed Flask website on PythonAnywhere](http://blog.pythonanywhere.com/121/)
 
 #### Bottle
 
