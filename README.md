@@ -103,6 +103,7 @@ This document is intended to help you on your way to be the so called Full Stack
 - [Classes and Objects](http://www.learnpython.org/en/Classes_and_Objects)
 - [Python Object Oriented](http://www.tutorialspoint.com/python/python_classes_objects.htm)
 - [Improve Your Python: Python Classes and Object Oriented Programming](https://www.jeffknupp.com/blog/2014/06/18/improve-your-python-python-classes-and-object-oriented-programming/)
+- [The origins of the class Meta idiom in python](http://mapleoin.github.io/perma/python-class-meta)
 
 #### Exceptions
 - [Python Exceptions Handling](http://www.tutorialspoint.com/python/python_exceptions.htm)
