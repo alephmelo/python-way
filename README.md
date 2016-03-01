@@ -225,6 +225,7 @@ This document is intended to help you on your way to be the so called Full Stack
 #### Django
 - [Web Development with Python and Django (2015)](https://speakerdeck.com/mpirnat/web-development-with-python-and-django-2015)
 - [Django Development with Docker Compose and Machine](https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/)
+- [Building a better user experience for deploying Python web applications](http://blog.dscpl.com.au/2016/02/building-better-user-experience-for.html)
 
 #### Pyramid
 
