@@ -91,6 +91,7 @@ This document is intended to help you on your way to be the so called Full Stack
 - [Variables and Types](http://www.learnpython.org/en/Variables_and_Types)
 - [Python Variable Types](http://www.tutorialspoint.com/python/python_variable_types.htm)
 - [Python Basics: Dictionaries](https://www.youtube.com/watch?v=ZX1CVvZLE6c)
+- [The Idiomatic Way to Merge Dictionaries in Python](https://treyhunner.com/2016/02/how-to-merge-dictionaries-in-python/)
 
 #### Functions
 - [Learn Python The Hard Way](http://learnpythonthehardway.org/book/ex21.html)
