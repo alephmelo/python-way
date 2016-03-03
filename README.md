@@ -86,6 +86,7 @@ This document is intended to help you on your way to be the so called Full Stack
 #### Command Line
 - [Documentation](https://docs.python.org/3.5/using/cmdline.html)
 - [Command Line Arguments](http://www.tutorialspoint.com/python/python_command_line_arguments.htm)
+- [Command line basics](http://alephmelo.github.io/command-line-basics/)
 
 #### Variables
 - [Variables and Types](http://www.learnpython.org/en/Variables_and_Types)
