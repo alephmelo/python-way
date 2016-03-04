@@ -115,6 +115,7 @@ This document is intended to help you on your way to be the so called Full Stack
 
 #### Modules
 - [Modules Every Python Developer Should Know](https://www.reddit.com/r/Python/comments/3yg2u4/modules_every_python_developer_should_know/)
+- [Python 101: All about imports](http://www.blog.pythonlibrary.org/2016/03/01/python-101-all-about-imports)
 
 ## Advanced
 
