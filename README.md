@@ -145,6 +145,7 @@ This document is intended to help you on your way to be the so called Full Stack
 - [Decorators and Metaclasses](http://lgiordani.com/blog/2014/10/14/decorators-and-metaclasses/#.Vpqwc1MrKcw)
 
 ## Optimization
+- [Python: An Intro to caching](http://www.blog.pythonlibrary.org/2016/02/25/python-an-intro-to-caching/)
 
 #### Cython
 - [Basic Tutorial](http://docs.cython.org/src/tutorial/cython_tutorial.html)
