@@ -191,6 +191,7 @@ This document is intended to help you on your way to be the so called Full Stack
 - [A Complete Tutorial to Learn Data Science with Python from Scratch](http://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/)
 - [Python NLTK Tools List for Natural Language Processing (NLP)](http://www.datasciencecentral.com/profiles/blogs/python-nlp-tools)
 - [The Definitive Guide to Natural Language Processing](https://blog.monkeylearn.com/the-definitive-guide-to-natural-language-processing/)
+- [Primeiros passos com Data Science](http://www.lerrua.com/blog/2016/03/08/primeiros-passos-com-data-science/)
 
 #### Natural Language Toolkit
 - [Analyzing Text with the Natural Language Toolkit](http://www.nltk.org/book/)
