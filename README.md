@@ -174,6 +174,7 @@ This document is intended to help you on your way to be the so called Full Stack
 
 ## Testing
 - [Testing Your Code](http://docs.python-guide.org/en/latest/writing/tests/)
+- [Defensive Programming](http://tutorials.pluralsight.com/python/defensive-programming-in-python)
 
 #### Unittest
 - [An Introduction to Mocking in Python](http://www.toptal.com/python/an-introduction-to-mocking-in-python)
