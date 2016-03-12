@@ -212,6 +212,7 @@ This document is intended to help you on your way to be the so called Full Stack
 
 #### Sckit-Learn
 - [Machine Learning in Python](http://www.scipy-lectures.org/advanced/scikit-learn/index.html)
+- [A Gentle Introduction to Scikit-Learn: A Python Machine Learning Library](http://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/)
 
 #### PyMC
 
