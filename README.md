@@ -262,6 +262,7 @@ This document is intended to help you on your way to be the so called Full Stack
 
 ## Data Visualization
 - [Cheat sheet: Data Visualisation in Python](http://www.analyticsvidhya.com/blog/2015/06/data-visualization-in-python-cheat-sheet/)
+- [MLDemos is an open-source visualization tool for machine learning algorithms](http://mldemos.epfl.ch/)
 
 #### Bokeh
 
