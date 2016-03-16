@@ -135,6 +135,7 @@ This document is intended to help you on your way to be the so called Full Stack
 - [Introduction to Context Managers in Python](http://eigenhombre.com/2013/04/20/introduction-to-context-managers/)
 - [Context Managers 101](http://book.pythontips.com/en/latest/context_managers.html)
 - [Context Lib](https://pymotw.com/2/contextlib/)
+- [Python with Context Managers](http://jeffknupp.com/blog/2016/03/07/python-with-context-managers/)
 
 #### Class Decorators
 - [Decorator Classes](http://book.pythontips.com/en/latest/decorators.html#decorator-classes)
