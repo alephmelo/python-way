@@ -224,6 +224,7 @@ This document is intended to help you on your way to be the so called Full Stack
 
 ## Web
 - [Django vs Flask vs Pyramid: Choosing a Python Web Framework](https://www.airpair.com/python/posts/django-flask-pyramid)
+- [A side-by-side Comparison of Django and Moya](https://www.willmcgugan.com/blog/tech/post/django-comparison/)
 - [Python, Ruby, and Golang: A Web Service Application Comparison](https://realpython.com/blog/python/python-ruby-and-golang-a-web-Service-application-comparison/)
 - [iOS and Web Browser Video Calls with Python and Swift](https://www.twilio.com/blog/2016/02/ios-and-web-browser-video-calls-with-python-and-swift-2.html)
 
