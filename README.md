@@ -247,6 +247,7 @@ This document is intended to help you on your way to be the so called Full Stack
 - [The Ultimate Flask Front-End](https://realpython.com/blog/python/the-ultimate-flask-front-end/)
 - [A beginner's guide to building a simple database-backed Flask website on PythonAnywhere](http://blog.pythonanywhere.com/121/)
 - [Episode #48: Building Flask-based Web Apps](https://talkpython.fm/episodes/show/48/building-flask-based-web-apps)
+- [How to Build an Events Database Using the ParseHub API, Python & Flask](http://www.programmableweb.com/news/how-to-build-events-database-using-parsehub-api-python-flask/how-to/2015/08/25)
 
 #### Bottle
 - [Bottle Official Tutorial](http://bottlepy.org/docs/dev/tutorial.html)
