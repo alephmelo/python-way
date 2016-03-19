@@ -231,6 +231,7 @@ This document is intended to help you on your way to be the so called Full Stack
 #### HTTP
 - [Create a Simple Python Web Scraper to Get Pricing Data](http://robertwdempsey.com/simple-python-web-scraper-get-pricing-data/)
 - [Scrapy Tips from the Pros: Part 1](https://blog.scrapinghub.com/2016/01/19/scrapy-tips-from-the-pros-part-1/)
+- [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 
 #### Django
 - [Web Development with Python and Django (2015)](https://speakerdeck.com/mpirnat/web-development-with-python-and-django-2015)
