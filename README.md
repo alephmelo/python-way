@@ -194,6 +194,7 @@ This document is intended to help you on your way to be the so called Full Stack
 - [Python NLTK Tools List for Natural Language Processing (NLP)](http://www.datasciencecentral.com/profiles/blogs/python-nlp-tools)
 - [The Definitive Guide to Natural Language Processing](https://blog.monkeylearn.com/the-definitive-guide-to-natural-language-processing/)
 - [Primeiros passos com Data Science](http://www.lerrua.com/blog/2016/03/08/primeiros-passos-com-data-science/)
+- [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
 #### Natural Language Toolkit
 - [Analyzing Text with the Natural Language Toolkit](http://www.nltk.org/book/)
