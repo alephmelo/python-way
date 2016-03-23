@@ -196,6 +196,7 @@ This document is intended to help you on your way to be the so called Full Stack
 - [Primeiros passos com Data Science](http://www.lerrua.com/blog/2016/03/08/primeiros-passos-com-data-science/)
 - [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - [The Evolution of Python for Data Science](http://www.dataversity.net/the-evolution-of-python-for-data-science/)
+- [Mapping earthquakes in Python 3.x using matplotlib and matplotlib's basemap](https://gist.github.com/dannguyen/eb1c4e70565d8cb82d63)
 
 #### Natural Language Toolkit
 - [Analyzing Text with the Natural Language Toolkit](http://www.nltk.org/book/)
