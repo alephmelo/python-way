@@ -209,6 +209,8 @@ This document is intended to help you on your way to be the so called Full Stack
 - [Redshift User Defined Functions in Python](https://www.periscopedata.com/blog/redshift-user-defined-functions-python.html)
 
 #### CSV
+- [Using the CSV module in Python](http://www.pythonforbeginners.com/systems-programming/using-the-csv-module-in-python/)
+- [Python Docs.: CSV](https://docs.python.org/2/library/csv.html)
 
 #### Pandas
 
