@@ -213,6 +213,7 @@ This document is intended to help you on your way to be the so called Full Stack
 - [Python Docs.: CSV](https://docs.python.org/2/library/csv.html)
 
 #### Pandas
+- [Tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
 
 #### PyLearn2
 
