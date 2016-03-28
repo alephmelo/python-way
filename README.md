@@ -214,6 +214,7 @@ This document is intended to help you on your way to be the so called Full Stack
 
 #### Pandas
 - [Tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
+- [10 Minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html#min)
 
 #### PyLearn2
 
