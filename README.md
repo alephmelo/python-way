@@ -211,6 +211,7 @@ This document is intended to help you on your way to be the so called Full Stack
 #### CSV
 - [Using the CSV module in Python](http://www.pythonforbeginners.com/systems-programming/using-the-csv-module-in-python/)
 - [Python Docs.: CSV](https://docs.python.org/2/library/csv.html)
+- [Pandas for Data Analysis](https://pythonprogramming.net/python-pandas-data-analysis/)
 
 #### Pandas
 - [Tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
