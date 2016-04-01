@@ -247,6 +247,7 @@ This document is intended to help you on your way to be the so called Full Stack
 - [Django Development with Docker Compose and Machine](https://realpython.com/blog/python/django-development-with-docker-compose-and-machine/)
 - [Building a better user experience for deploying Python web applications](http://blog.dscpl.com.au/2016/02/building-better-user-experience-for.html)
 - [How To Use Elasticsearch With Python and Django Part 1](https://qbox.io/blog/how-to-elasticsearch-python-django-part1)
+- [How To Use Elasticsearch With Python and Django Part 2](https://qbox.io/blog/elasticsearch-python-django-database)
 - [Finally, Real-Time Django Is Here: Get Started with Django Channels](https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django)
 - [City Chat with Python, Django and Twilio IP Messaging](https://www.twilio.com/blog/2015/12/city-chat-with-python-django-and-twilio-ip-messaging.html)
 
