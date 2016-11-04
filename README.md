@@ -218,6 +218,7 @@ This document is intended to help you on your way to be the so called Full Stack
 #### Pandas
 - [Tutorials](http://pandas.pydata.org/pandas-docs/stable/tutorials.html)
 - [10 Minutes to pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html#min)
+- [Easier Data Analysis with Pandas (video series)](http://www.dataschool.io/easier-data-analysis-with-pandas/)
 
 #### PyLearn2
 
