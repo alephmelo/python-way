@@ -116,6 +116,7 @@ This document is intended to help you on your way to be the so called Full Stack
 #### Modules
 - [Modules Every Python Developer Should Know](https://www.reddit.com/r/Python/comments/3yg2u4/modules_every_python_developer_should_know/)
 - [Python 101: All about imports](http://www.blog.pythonlibrary.org/2016/03/01/python-101-all-about-imports)
+- [Demystifying how imports work in Python by @tasdikrahman](https://speakerdeck.com/tasdikrahman/demystifying-how-imports-work-in-python)
 
 ## Advanced
 
@@ -236,6 +237,7 @@ This document is intended to help you on your way to be the so called Full Stack
 - [A side-by-side Comparison of Django and Moya](https://www.willmcgugan.com/blog/tech/post/django-comparison/)
 - [Python, Ruby, and Golang: A Web Service Application Comparison](https://realpython.com/blog/python/python-ruby-and-golang-a-web-Service-application-comparison/)
 - [iOS and Web Browser Video Calls with Python and Swift](https://www.twilio.com/blog/2016/02/ios-and-web-browser-video-calls-with-python-and-swift-2.html)
+- [5 wicked-fast Python frameworks you have to try](http://www.infoworld.com/article/3133854/application-development/5-wicked-fast-python-frameworks-you-have-to-try.html?utm_content=buffer8d1ff&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 #### HTTP
 - [Create a Simple Python Web Scraper to Get Pricing Data](http://robertwdempsey.com/simple-python-web-scraper-get-pricing-data/)
