@@ -300,6 +300,7 @@ This document is intended to help you on your way to be the so called Full Stack
 #### SciPy
 
 ## Packaging
+- [How We Deploy Python Code](https://nylas.com/blog/packaging-deploying-python)
 
 #### SetupPy
 
