@@ -255,6 +255,7 @@ This document is intended to help you on your way to be the so called Full Stack
 - [City Chat with Python, Django and Twilio IP Messaging](https://www.twilio.com/blog/2015/12/city-chat-with-python-django-and-twilio-ip-messaging.html)
 
 #### Pyramid
+- [Pyramid Quickstart Tutorial](http://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html#quick-tutorial)
 
 #### Flask
 - [Flask by Example - Project](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/)
