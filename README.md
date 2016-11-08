@@ -316,6 +316,7 @@ This document is intended to help you on your way to be the so called Full Stack
 #### Restructured Text
 
 #### Sphinx
+- [Getting Started with Sphinx](http://www.sphinx-doc.org/en/1.4.8/tutorial.html)
 
 #### Readthedocs
 
