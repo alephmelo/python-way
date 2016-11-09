@@ -256,6 +256,7 @@ This document is intended to help you on your way to be the so called Full Stack
 
 #### Pyramid
 - [Pyramid Quickstart Tutorial](http://docs.pylonsproject.org/projects/pyramid/en/latest/quick_tutorial/index.html#quick-tutorial)
+- [Build a web chat with Pyramid](http://www.ibm.com/developerworks/cloud/library/cl-chatapp-bluemix-app/index.html)
 
 #### Flask
 - [Flask by Example - Project](https://realpython.com/blog/python/flask-by-example-part-1-project-setup/)
