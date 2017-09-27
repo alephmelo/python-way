@@ -345,3 +345,4 @@ This document is intended to help you on your way to be the so called Full Stack
 - [Entry Level Quiz for Python Developers](http://www.techbeamers.com/entry-level-quiz-for-python-developers/)
 - [PEP 8 — the Style Guide for Python Code](http://pep8.org/)
 - [Python Exercises](https://www.ynonperek.com/2017/09/21/python-exercises/)
+- [Contributing to Python open-source Projects](https://dbader.org/blog/python-open-source-contributing)
