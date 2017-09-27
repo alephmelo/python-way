@@ -27,7 +27,6 @@ This document is intended to help you on your way to be the so called Full Stack
 	- [Threading](#threading)
 	- [Multiprocessing](#multiprocessing)
 	- [Async](#async)
-		- [Tulip](#tulip)
 		- [Gevent](#gevent)
 		- [Twisted](#twisted)
 - [Testing](#testing)
@@ -169,11 +168,11 @@ This document is intended to help you on your way to be the so called Full Stack
 #### Async
 - [Python Asynchronous I/O Walkthrough](http://pgbovine.net/python-async-io-walkthrough.htm)
 
-##### Tulip
-
 ##### Gevent
+- [Gevent Tutorial](http://sdiehl.github.io/gevent-tutorial/)
 
 ##### Twisted
+- [Twisted Introduction](http://krondo.com/an-introduction-to-asynchronous-programming-and-twisted/)
 
 ## Testing
 - [Testing Your Code](http://docs.python-guide.org/en/latest/writing/tests/)
