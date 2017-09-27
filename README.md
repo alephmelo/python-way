@@ -330,6 +330,7 @@ This document is intended to help you on your way to be the so called Full Stack
 - [Space Shooter Project](https://github.com/prodicus/spaceShooter)
 
 #### Kivy
+- [Python GUI with Kivy](https://medium.com/talk-like/python-gui-with-kivy-an-introduction-83ab35e30fc6)
 
 #### PySide
 
