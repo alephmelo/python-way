@@ -286,6 +286,7 @@ This document is intended to help you on your way to be the so called Full Stack
 - [Introductory Tutorial of Python’s SQLAlchemy](http://pythoncentral.io/introductory-tutorial-python-sqlalchemy/)
 
 #### Alembic
+- [Official Tutorial](http://alembic.zzzcomputing.com/en/latest/tutorial.html)
 
 ## Data Visualization
 - [Cheat sheet: Data Visualisation in Python](http://www.analyticsvidhya.com/blog/2015/06/data-visualization-in-python-cheat-sheet/)
