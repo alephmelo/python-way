@@ -280,6 +280,7 @@ This document is intended to help you on your way to be the so called Full Stack
 #### DBAPI
 
 #### Django ORM
+- [Django Girls: Intro to Django ORM](https://tutorial.djangogirls.org/en/django_orm/)
 
 #### SQLAlchemy
 
