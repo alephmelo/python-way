@@ -293,8 +293,10 @@ This document is intended to help you on your way to be the so called Full Stack
 - [MLDemos is an open-source visualization tool for machine learning algorithms](http://mldemos.epfl.ch/)
 
 #### Bokeh
+- [Python Data Visualization: Bokeh Cheat Sheet](https://www.datacamp.com/community/blog/bokeh-cheat-sheet-python)
 
 #### Matplot Lib
+- [Beginner's Guide](https://matplotlib.org/users/beginner.html)
 
 #### Seaborn
 
