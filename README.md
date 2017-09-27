@@ -283,6 +283,7 @@ This document is intended to help you on your way to be the so called Full Stack
 - [Django Girls: Intro to Django ORM](https://tutorial.djangogirls.org/en/django_orm/)
 
 #### SQLAlchemy
+- [Introductory Tutorial of Python’s SQLAlchemy](http://pythoncentral.io/introductory-tutorial-python-sqlalchemy/)
 
 #### Alembic
 
