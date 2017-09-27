@@ -331,6 +331,7 @@ This document is intended to help you on your way to be the so called Full Stack
 
 #### Kivy
 - [Python GUI with Kivy](https://medium.com/talk-like/python-gui-with-kivy-an-introduction-83ab35e30fc6)
+- [Kivy with Python tutorial for Mobile Application]https://pythonprogramming.net/kivy-application-development-tutorial/
 
 #### PySide
 
